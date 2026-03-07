@@ -1,0 +1,49 @@
+header{
+    color: bisque;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+}
+
+header h4{
+    font-weight: 100;
+}
+
+header h1{
+    font-weight: 700;
+}
+
+body{
+    background-color: rgb(108, 17, 255);
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.caja{
+    background-color: white;
+    margin: 15px;
+    width: 200px;
+    height: 550px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.caja1{
+    background-color: white;
+    width: 300px;
+    height: 625px;
+    border-radius: 1cqh;
+}
+
+.cajita{
+    background-color: rgb(232, 212, 186);
+    width: 100px;
+    color: rgb(108, 17, 255);;
+    font-weight: 600px;
+}
+
+
