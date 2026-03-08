@@ -66,5 +66,28 @@ img{
 }
 
 
+.plan{
+    color: rgb(232, 186, 2);
+    font-size: 25px;
+}
+
+h2{
+    color: rgb(108, 17, 255);
+    font-weight: 700;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+p{
+    color: rgb(108, 17, 255);
+}
+
+.started{
+    color: White;
+    background-color:rgb(108, 17, 255);
+}
 
 
